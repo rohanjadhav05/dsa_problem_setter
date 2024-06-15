@@ -35,22 +35,22 @@ This repository is dedicated to creating and managing a collection of data struc
 
  ## Set project locally
 
-  - To run java solution, verfiy JDK is installed in your system.
-  - To run c++ solution, verfiy C++ complier is installed in your system.
+  - To run java solution, verify JDK is installed in your system.
+  - To run c++ solution, verify C++ complier is installed in your system.
     
   1. Clone the repository
        `git clone https://github.com/rohanjadhav05/dsa_problem_setter.git`
 
   2. Navigate to the problem_1
      a. To Run Java Solution
-       - to run problem_1 in java complie the java code
+       - to run problem_1 in java compile the java code
            `javac solution1.java`
        - .class file we generated, run the .class file to get to check if all test cases are passed
            `java solution1`
 
      b. To Run c++ solution
-       - complie the c++ code
+       - compile the c++ code
          `g++ -o solution2 solution2.cpp`
-       - run the c++ soltuion
+       - run the c++ solution
          `./solution2`
      
